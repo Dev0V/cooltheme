@@ -1,0 +1,150 @@
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+background-color: #181a1d;
+color: hsla(0,0%,100%,.8);
+}
+.theme-dark {
+--header-primary: #ffffff;
+--header-secondary: #d6d9dd;
+--text-normal: #ffffff;
+--text-muted: #cccccc;
+--text-link: #1f92ff;
+--channels-default: #bfbfbf;
+--interactive-normal: #ffffff;
+--interactive-hover: #dcddde;
+--interactive-active: #fff;
+--interactive-muted: #4f545c;
+--background-primary: #222427;
+--background-secondary: #1a1a1c;
+--background-secondary-alt: #13131300;
+--background-tertiary: #131313;
+--background-accent: #3f3c3e00;
+--background-floating: #121215;
+--background-mobile-primary: #36393f;
+--background-mobile-secondary: #2f3136;
+--background-modifier-hover: #2a2b3057;
+--background-modifier-active: rgba(79,84,92,0.24);
+--background-modifier-selected: rgba(34, 34, 38, 0.8);
+--background-modifier-accent: hsla(0,0%,100%,0.06);
+--background-mentioned: rgba(250,166,26,0.05);
+--background-mentioned-hover: rgba(250,166,26,0.08);
+--background-message-hover: rgba(0, 0, 0, 0.21);
+--background-help-warning: rgba(250, 150, 26, 0.1);
+--background-help-info: rgba(0, 152, 244, 0.1);
+--scrollbar-thin-thumb: #202225;
+--scrollbar-thin-track: transparent;
+--scrollbar-auto-thumb: #2e3338;
+--scrollbar-auto-track: #202225;
+--scrollbar-auto-scrollbar-color-thumb: #202225;
+--scrollbar-auto-scrollbar-color-track: #2f3136;
+--elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15);
+--elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+--elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
+--elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+--logo-primary: #fff;
+--focus-primary: #00b0f4;
+--guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+--channeltextarea-background: #40444b;
+--activity-card-background: #202225;
+--textbox-markdown-syntax: #8e9297;
+--deprecated-card-bg: rgba(32,34,37,0.6);
+--deprecated-card-editable-bg: rgba(32,34,37,0.3);
+--deprecated-store-bg: #36393f;
+--deprecated-quickswitcher-input-background: #72767d;
+--deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+--deprecated-text-input-bg: rgba(0,0,0,0.1);
+--deprecated-text-input-border: rgba(0,0,0,0.3);
+--deprecated-text-input-border-hover: #040405;
+--deprecated-text-input-border-disabled: #202225;
+--deprecated-text-input-prefix: #dcddde;
+}
+.iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {
+color: #ffffff00;
+}
+.unread-1xRYoj {
+background-color: #79b7ff;
+opacity: 1;
+}
+.sidebar-2K8pFh.hideElement .container-3baos1 {
+background-color: #22242700;
+}
+.topSectionPlaying-1J5E4n {
+background: #19191b00;
+}
+.da-tabBody {
+background-color: #1a1a1c;
+}
+.header-39GIC8 {
+background-color: #1a1a1c;
+}
+.scroller-1IIF0A {
+background-color: #1a1a1c;
+}
+.scroller-9moviB {
+background-color: #1a1a1c;
+}
+.container-1r6BKw.themed-ANHk51 {
+background: #1e2022;
+}
+.theme-dark #MemberCount {
+background: #1a1a1c;
+}
+.scrollerWrap-2lJEkd::-webkit-scrollbar-track {
+background-color: #2e3338;
+border-radius: 10px;
+}
+
+.scrollerWrap-2lJEkd::-webkit-scrollbar-thumb {
+background: #202225; 
+border-radius: 10px;
+}
+
+.scrollerWrap-2lJEkd::-webkit-scrollbar-thumb:hover {
+background: #202225; 
+}
+.scrollerWrap-2lJEkd{
+overflow: auto;
+}
+.scrollerWrap-2lJEkd::-webkit-scrollbar {
+width: 9px;
+}
+.contentRegionScroller-26nc1e {
+background-color: #1a1a1c;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+color: #fff;
+background-color: #3e82e5;
+}
+.container-3auIfb .da-container{
+opacity: 1;
+background-color: #3e82e5;
+}
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+background-color: #3e82e5;
+}
+.modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU {
+background-color: #202023;
+}
+.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {
+color: #f0eded;
+}
+.content-3at_AU .da-content{
+background-color: #5a97ff0d;
+}
+.headerPlaying-j0WQBV {
+background: #202225;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+color: #fff;
+background-color: #3065b4;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+color: #fff;
+background-color: #3e82e5;
+}
+.theme-dark .popoutList-T9CKZQ {
+background: #202023;
+}
+.scroller-2TZvBN {
+background-color: #0a0a0a;
+}
