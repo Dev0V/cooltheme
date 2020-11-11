@@ -1,11 +1,3 @@
-:root {
-    --accent: 3, 102, 214;
-    --link-colour: 48, 144, 255;
-
-    --server-icon-size: 35px;
-    --server-icon-spacing: 8px;
-    --server-container-padding: 10px;
-}
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
 background-color: #181a1d;
 color: hsla(0,0%,100%,.8);
