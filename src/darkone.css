@@ -92,16 +92,14 @@ background: #1e2022;
 .theme-dark #MemberCount {
 background: #1a1a1c;
 }
-.scrollerWrap-2lJEkd::-webkit-scrollbar-track {
-background-color: #2e3338;
-border-radius: 10px;
-}
-
 .scrollerWrap-2lJEkd::-webkit-scrollbar-thumb {
-background: #202225; 
-border-radius: 10px;
+    background: #616c78;
+    border-radius: 10px;
 }
-
+.scrollerWrap-2lJEkd::-webkit-scrollbar-track {
+    background-color: #2b2f33;
+    border-radius: 10px;
+}
 .scrollerWrap-2lJEkd::-webkit-scrollbar-thumb:hover {
 background: #202225; 
 }
